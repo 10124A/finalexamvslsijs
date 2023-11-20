@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Table Printer</title>
+</head>
+<body>
+  <h1>Table Printer</h1>
+  <input type="number" id="numberInput" placeholder="Enter a number">
+  <button onclick="printTable()">Print Table</button>
+  <br><br>
+  <div id="tableOutput"></div>
+
+ 
+</body>
+</html>
